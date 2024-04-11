@@ -1,5 +1,5 @@
 # LRC2
-Low-level memory array encryption/decryption.
+Low-level RC2 memory array chiper/dechiper.
 
 Uses eXtended TEA RC2 chiper to encrypt/decrypt arrays at memory level.
 PoC will be demostrated soon in my operating system.
